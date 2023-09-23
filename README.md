@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Taiyo Maruyama</h1>
 <h3 align="center">I'm a full stack software development engineer.</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=taiyomaruyama" alt="taiyomaruyama" /></p>
+<img src="https://github-profile-trophy.vercel.app/?username=taiyomaruyama" alt="taiyomaruyama" />
 
 - 🌱 I’m currently learning **React, Flutter, ReactNative, and General backend enhancements**
 

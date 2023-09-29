@@ -1,9 +1,9 @@
-<h1 align="center">プロフィール</h1>
+<p align="center">プロフィール</p>
 
 <h3>はじめまして、私はシステム開発エンジニアです。</h3>
 <h3>現在、フルスタックのエンジニアとして幅広い技術領域で活動しています。</h3>
 
-- 🌱 最新の学習領域： React, Flutter, ReactNative、およびバックエンドの高度な開発技術 
+- 🌱 最新の学習領域： React, Flutter, ReactNative、およびバックエンドの開発 
 - 📝 私の考えや学びを定期的に共有しています → [Zenn](https://zenn.dev/nifumafu) 
 - 📫 お問い合わせはこちらからどうぞ → stickytomatobaby0501@gmail.com 
 - 📄 私の経験について詳しく知りたい方はこちら → [Zennの自己紹介](https://zenn.dev/nifumafu/articles/21b2b6af4b0a1b)

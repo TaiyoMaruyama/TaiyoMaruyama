@@ -1,23 +1,39 @@
-<p align="center">プロフィール</p>
+**プロフィール**
 
-<h3>はじめまして、私はシステム開発エンジニアです。</h3>
-<h3>現在、フルスタックのエンジニアとして幅広い技術領域で活動しています。</h3>
+<img src="https://storage.googleapis.com/zenn-user-upload/d11a9fb63208-20230930.png" alt="engineer" width="300px" />
+
+<p>----------------------------------</p>
+
+**はじめまして、私はシステム開発エンジニアです。**
+
+**現在、フルスタックのエンジニアとして幅広い技術領域で活動しています。**
+
+<p>----------------------------------</p>
 
 - 🌱 最新の学習領域： React, Flutter, ReactNative、およびバックエンドの開発 
 - 📝 私の考えや学びを定期的に共有しています → [Zenn](https://zenn.dev/nifumafu) 
 - 📫 お問い合わせはこちらからどうぞ → stickytomatobaby0501@gmail.com 
 - 📄 私の経験について詳しく知りたい方はこちら → [Zennの自己紹介](https://zenn.dev/nifumafu/articles/21b2b6af4b0a1b)
 
+ <p>----------------------------------</p>
+
 <p>
-  私の目標は、技術とクリエイティビティを結びつけ、最高品質のソリューションを提供することです。
+  私の目標は、フルスタックエンジニアの中でも、あらゆる問題において柔軟に対応できるようなエンジニアになることです。
+  <br>大学は数学科卒なので、ロジックを組むことも得意です。
   <br>新たなチャレンジに取り組み、常に成長を続けることに情熱を注いでいます。
   <br>技術の世界で新たな友達や同僚と出会うことを楽しみにしています。一緒に素晴らしいプロジェクトを作りましょう！💡🚀
 </p>
 
 <p align="left"></p>
-<h3 align="left">触ったことのある技術やツール</h3>
+
+<p>----------------------------------</p>
+
+🌟**触ったことのある技術やツール**
+
+
 <p align="left">
-  <h4>フロントエンド</h4>
+  <strong>フロントエンド</strong>
+  <p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -63,8 +79,12 @@
       width="40"
       height="40"
   /></a>
-  <h4>バックエンド技術</h4>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"
+  </p>
+
+  
+  <strong>バックエンド</strong>
+  <p>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
@@ -92,8 +112,11 @@
       width="40"
       height="40"
   /></a>
-  <h4>データベース</h4>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"
+  </p>
+  
+  <strong>データベース</strong>
+  <p>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
@@ -114,8 +137,11 @@
       width="40"
       height="40"
   /></a>
-  <h4>モバイルアプリ開発</h4>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"
+  </p>
+
+  <strong>モバイルアプリ開発</strong>
+  <p>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"
     ><img
       src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
       alt="flutter"
@@ -129,8 +155,11 @@
       width="40"
       height="40"
   /></a>
-  <h4>その他</h4>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"
+  </p>
+
+  <strong>その他</strong>
+  <p>  
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
@@ -158,5 +187,6 @@
       width="40"
       height="40"
   /></a>
+</p>
 
 </p>

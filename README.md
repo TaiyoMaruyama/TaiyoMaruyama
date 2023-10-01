@@ -83,7 +83,7 @@
   /></a>
   </p>
 
-  
+  <p>　</p>
   <strong>バックエンド</strong>
   <p>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"
@@ -115,7 +115,8 @@
       height="40"
   /></a>
   </p>
-  
+
+  <p>　</p>
   <strong>データベース</strong>
   <p>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"
@@ -141,6 +142,7 @@
   /></a>
   </p>
 
+  <p>　</p>
   <strong>モバイルアプリ開発</strong>
   <p>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"
@@ -159,6 +161,7 @@
   /></a>
   </p>
 
+  <p>　</p>
   <strong>その他</strong>
   <p>  
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"

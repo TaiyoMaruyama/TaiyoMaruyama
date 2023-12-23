@@ -1,7 +1,5 @@
 **プロフィール**
 
-<img src="https://storage.googleapis.com/zenn-user-upload/d11a9fb63208-20230930.png" alt="engineer" width="300px" />
-
 <p>----------------------------------</p>
 
 **はじめまして、私はシステム開発エンジニアです。**

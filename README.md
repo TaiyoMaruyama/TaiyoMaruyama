@@ -1,33 +1,32 @@
-<p>----------------------------------</p>
+# 自己紹介
 
-**現在、フルスタックのエンジニアとして幅広い技術領域で活動しています。**
+**Taiyo**🌞です。
+<br><br>
+**フルスタックエンジニア**として働いています。<br>
+短期的な目標として、幅広く根拠のある知識を構築したいです。<br>
+そして、将来的にそのスキルを誰かに**還元**したい。<br>
+そんな**好循環**を生むことのできる技術者になりたいです。
 
-<p>----------------------------------</p>
-
-🌱 最新の学習内容： 
-- Typescript＋StoryBook＋Biome <span style="color: red;" >[new!]</span>
-- Tauriでデスクトップスクショアプリ
-- Docker＋PostgreSQL＋pgvectorで医薬品のベクトル検索
-
- <p>----------------------------------</p>
-
-<p>
-  私の目標は、確かな技術を持ってスケーラブルに課題を解決できるエンジニアになることです。
-  <br>新たなチャレンジに取り組み、常に成長を続けることに情熱を注いでいます。
-</p>
+## 技術スタック
 
 
-<p>----------------------------------</p>
-<p align="left">
- ⚠注意事項
- <br>※Contribution graphが顕著に活動していないときは、本職を優先的に稼働させていると思います。
-</p>
+**▼ 言語**<br>
+HTML, CSS, JavaScript, TypeScript, Python, Rust, VBA, Dart
+<br>**▼ フレームワーク**<br>
+React, Next.js, FastAPI, Flutter, React Native, NestJS
+<br>**▼ データベース**<br>
+PostgreSQL, DuckDB, SQLAlchemy
+<br>**▼ ツール**<br>
+Git, GitHub, Docker, VSCode, Zed, Figma, JIRA, Postman, Selenium
+<br>**▼ ライブラリ/その他**<br>
+GraphQL, Polars, Pandas, Tesseract OCR, Beautiful Soup 4, Sass, Tailwind CSS, shadcn, Material-UI, Prisma, Firebase
 
+## リンク
+【Zenn】 : [Nifumafu](https://zenn.dev/nifumafu)<br>
+【GitHub】 : [TaiyoMaruyama](https://github.com/TaiyoMaruyama)
 
-<p>----------------------------------</p>
+## さいごに
 
-<p align="left">
- 最後までお読みいただきありがとうございます。👍
-</p>
+これからのプロジェクトや学びを通じて成長し続けることを楽しみにしています！<br>
 
-<p>　　　</p>
+一読いただきまして、ありがとうございます！！

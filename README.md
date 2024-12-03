@@ -13,13 +13,13 @@
 **▼ 言語**<br>
 HTML, CSS, JavaScript, TypeScript, Python, Rust, VBA, Dart
 <br>**▼ フレームワーク**<br>
-React, Next.js, FastAPI, Flutter, React Native, NestJS
+React, Next.js, Angular, FastAPI, Flutter, React Native, NestJS
 <br>**▼ データベース**<br>
 PostgreSQL, DuckDB, SQLAlchemy
 <br>**▼ ツール**<br>
 Git, GitHub, Docker, VSCode, Zed, Figma, JIRA, Postman, Selenium
 <br>**▼ ライブラリ/その他**<br>
-GraphQL, Polars, Pandas, Tesseract OCR, Beautiful Soup 4, Sass, Tailwind CSS, shadcn, Material-UI, Prisma, Firebase
+GraphQL, ReactHookForm, Polars, Pandas, Tesseract OCR, Beautiful Soup 4, Sass, Tailwind CSS, shadcn, Material-UI, Prisma, Firebase, ....
 
 ## リンク
 【Zenn】 : [Nifumafu](https://zenn.dev/nifumafu)<br>
@@ -28,5 +28,4 @@ GraphQL, Polars, Pandas, Tesseract OCR, Beautiful Soup 4, Sass, Tailwind CSS, sh
 ## さいごに
 
 これからのプロジェクトや学びを通じて成長し続けることを楽しみにしています！<br>
-
 一読いただきまして、ありがとうございます！！

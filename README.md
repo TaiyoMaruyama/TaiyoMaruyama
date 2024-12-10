@@ -19,7 +19,7 @@ PostgreSQL, DuckDB, SQLAlchemy
 <br>**▼ ツール**<br>
 Git, GitHub, Docker, VSCode, Zed, Figma, JIRA, Postman, Selenium
 <br>**▼ ライブラリ/その他**<br>
-GraphQL, ReactHookForm, Polars, Pandas, Tesseract OCR, Beautiful Soup 4, Sass, Tailwind CSS, shadcn, Material-UI, Prisma, Firebase, ....
+GraphQL, ReactHookForm, Polars, Pandas, Tesseract OCR, Beautiful Soup 4, Sass, Tailwind CSS, shadcn, Material-UI, KumaUI, Prisma, Firebase, ....
 
 ## リンク
 【Zenn】 : [Nifumafu](https://zenn.dev/nifumafu)<br>
